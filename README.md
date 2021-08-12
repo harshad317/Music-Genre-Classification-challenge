@@ -9,14 +9,17 @@ Currently, many music aggregator applications rely on machine learning to power 
 
 ## About Dataset
 
-#### Training dataset: 17,996 rows with 17 columns 
+#### Training dataset: 
+17,996 rows with 17 columns 
 
-Column details: artist name; track name; popularity; ‘danceability’; energy; key; loudness; mode; ‘speechiness’; ‘acousticness’; ‘instrumentalness’; liveness; valence; tempo; duration in milliseconds and time_signature. 
+#### Column details: 
+artist name; track name; popularity; ‘danceability’; energy; key; loudness; mode; ‘speechiness’; ‘acousticness’; ‘instrumentalness’; liveness; valence; tempo; duration in milliseconds and time_signature. 
 
 #### Target Variable: 
 'Class’ such as Rock, Indie, Alt, Pop, Metal, HipHop, Alt_Music, Blues, Acoustic/Folk, Instrumental, Country, Bollywood, 
 
-#### Test dataset: 7,713 rows with 16 columns 
+#### Test dataset: 
+7,713 rows with 16 columns 
 
 ## Evaluation
 
