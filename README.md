@@ -1,5 +1,5 @@
 # Music-Genre-Classification-challenge
-# 4th Rank solution
+# 3rd Rank solution
 
 ## Overview
 
